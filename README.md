@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h1>
 
-> This is my repository where I store wallpapers for catppuccin themes. All wallpapers do not belong to me and were taken from various repo-histories and sites, I only chose the best in my opinion!
+> This is my repository where I store wallpapers for catppuccin themes. All wallpapers do not belong to me and were taken from different repositories and sites, I only chose the best in my opinion!
 
 # Installation
 
